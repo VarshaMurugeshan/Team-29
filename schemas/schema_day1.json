@@ -1,0 +1,8 @@
+
+{
+  "students": {
+    "id": "integer",
+    "name": "varchar",
+    "dept": "varchar"
+  }
+}

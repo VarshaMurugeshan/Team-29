@@ -1,0 +1,9 @@
+
+{
+  "students": {
+    "student_id": "integer",
+    "name": "varchar",
+    "dept": "varchar",
+    "cgpa": "float"
+  }
+}
