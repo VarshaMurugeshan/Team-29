@@ -13,3 +13,6 @@ python app.py
 
 ### Streamlit Dashboard
 streamlit run dashboard.py
+
+## Demo Video Link
+https://drive.google.com/file/d/1MkHSdXd8we_49CV3SgIKpySQRo17P1ZS/view?usp=drive_link
